@@ -1,6 +1,7 @@
 ### Hi! 👋 I'm Abu Amar.
 <br>
-A student in the **Informatics** study program at Jenderal Achmad Yani Yogyakarta University. 
+
+A student in the **Informatics** study program at **Jenderal Achmad Yani Yogyakarta University.**
 
 I am now undergoing **Semester 6** by taking part in **Bangkit** from one of the <a href="https://github.com/dicodingacademy">**Kampus Merdeka**</a> programs at **Mobile Development** tech
 
