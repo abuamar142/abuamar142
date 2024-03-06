@@ -9,7 +9,7 @@ I am now undergoing **Semester 6** by taking part in **Bangkit** from one of the
 - 🌱 I’m currently learning about mobile development, especially in Kotlin and Flutter
 - 📫 How to reach me: amarjabon130@gmail.com
 - ⚡ Fun fact: Nothing
-<br>
+
 ### Tech Stack
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/180px-Google-flutter-logo.svg.png" /></a>
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/330px-Kotlin_logo.svg.png" /></a>
