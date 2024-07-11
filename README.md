@@ -28,5 +28,5 @@ I am now undergoing **Semester 6** by taking part in **Bangkit** from one of the
 ### Reach me on
 - <a href="https://linkedin.com/in/abu-amar/">LinkedIn</a>
 - <a href="https://instagram.com/abuuamar_">Instagram</a>
-- amarjabon130@gmail.com
+- <a href="mailto:abuamar.albadawi@gmail.com">Email</a>
 - <a href="https://wa.me/6281520471914">Whatsapp</a>
