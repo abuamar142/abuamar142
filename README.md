@@ -7,7 +7,7 @@ I am now undergoing **Semester 6** by taking part in **Bangkit** from one of the
 
 - 🔭 I’m currently life on **Pesantren** in **Bantul, Yogyakarta**
 - 🌱 I’m currently learning about mobile development, especially in Kotlin and Flutter
-- 📫 How to reach me: amarjabon130@gmail.com
+- 📫 How to reach me: abuamar.albadawi@gmail.com
 - ⚡ Fun fact: Nothing
 
 ### Tech Stack
