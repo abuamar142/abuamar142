@@ -19,7 +19,7 @@ I am now undergoing **Semester 6** by taking part in **Bangkit** from one of the
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abuamar142&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abuamar142&layout=compact&langs_count=8&theme=algolia"/>
 </a>
